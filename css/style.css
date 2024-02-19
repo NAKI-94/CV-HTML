@@ -13,7 +13,7 @@ background: #f3f2f2;
   --secondary-color: #030008;
   --light-one: #fff;
   --light-two: #f9fafb;
-  --light-three: #f6f7fb;
+  --light-three: #fbf6f6;
 }
 
 
@@ -605,7 +605,7 @@ nav .container {
 }
 
 .input-arrow:hover {
-  background-color: #6b44e0;
+  background-color: #d30808;
 }
 
 .focus {
